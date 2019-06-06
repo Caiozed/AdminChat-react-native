@@ -160,6 +160,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#F5FCFF",
     margin: 5,
     marginBottom: 15,
+    textAlign: "center",
     fontSize: 20,
     color: "black"
   },
